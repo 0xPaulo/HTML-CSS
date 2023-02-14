@@ -1,3 +1,21 @@
 body{
     background-color: #444;
+    margin-left: 200px;
+}
+p{
+    color: green;
+    background-color: rgb(49, 30, 30);
+}
+a{
+    text-decoration: none;
+    color: green;
+    background-color: rgb(29, 30, 48);
+}
+.px{
+    font-size: 24px;
+    padding: 16px 32px;
+}
+.rem{
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
 }
