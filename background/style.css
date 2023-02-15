@@ -1,0 +1,18 @@
+.vespa {
+  background-image: linear-gradient( to right, rgba(255, 255, 255, 0), rgba(2, 1, 2, 0.541)), url(./img/vespa.jpg);
+  color: pink;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-color: skyblue;
+  background-size:cover;
+  background-position: center top;
+  display: flex;
+
+}
+h1{
+    background-color: palevioletred;
+    padding: 10px 20px;
+    margin: auto ;
+
+}
+.gradiente{
