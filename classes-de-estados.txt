@@ -1,5 +1,6 @@
 a:hover{
 Aplica um estilo quando o usuário passa o mouse sobre o elemento.
+transition: 0.3s;
 }
 
 :active - Aplica um estilo quando o elemento está sendo clicado.
