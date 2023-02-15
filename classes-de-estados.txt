@@ -1,0 +1,21 @@
+:hover - Aplica um estilo quando o usuário passa o mouse sobre o elemento.
+
+:active - Aplica um estilo quando o elemento está sendo clicado.
+
+:focus - Aplica um estilo quando o elemento está em foco, geralmente depois de ser selecionado com a tecla Tab do teclado.
+
+:visited - Aplica um estilo aos links visitados.
+
+:link - Aplica um estilo aos links não visitados.
+
+:first-child - Aplica um estilo ao primeiro elemento filho de um elemento pai.
+
+:last-child - Aplica um estilo ao último elemento filho de um elemento pai.
+
+:nth-child(n) - Aplica um estilo a cada nth elemento filho de um elemento pai, onde n é um número ou uma fórmula matemática.
+
+:nth-of-type(n) - Aplica um estilo a cada nth elemento filho de um tipo específico de um elemento pai.
+
+:nth-last-child(n) - Aplica um estilo a cada nth elemento filho, contado a partir do final, de um elemento pai.
+
+:nth-last-of-type(n) - Aplica um estilo a cada nth elemento filho, contado a partir do final, de um tipo específico de um elemento pai.
