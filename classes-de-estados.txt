@@ -1,4 +1,6 @@
-:hover - Aplica um estilo quando o usuário passa o mouse sobre o elemento.
+a:hover{
+Aplica um estilo quando o usuário passa o mouse sobre o elemento.
+}
 
 :active - Aplica um estilo quando o elemento está sendo clicado.
 
